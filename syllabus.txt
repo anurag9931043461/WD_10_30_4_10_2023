@@ -1,0 +1,55 @@
+> Introduction
+> print()
+> comment
+> variable
+> Number system
+> datatype
+    > integer int
+    > float
+    > string str
+    > list
+    > tuple
+    > set 
+    > frozenset
+    > dictionay dict
+    > complex
+    > boolean bool
+    > Array
+> operator
+> input()
+> casting
+> conditional programming
+    > if else
+    > nested if else
+    > if elif else
+    > nested if elif else
+    > ternary operator
+    > pass keyword
+> loop
+    > for loop
+        > single/simple for loop
+        > single for loop for pattern 
+        > nested for loop 
+        > nested for loop for pattern
+        > keywords
+            > continue
+            > break
+            > pass
+            > else
+        > comprehension
+            > list comprehension 
+            > tuple comprehension
+            > dictionary comprehension 
+            > set comprehension 
+            > frozenset comprehension
+            > Array comprehension
+    > while loop
+        > simple while loop 
+        > single while loop for pattern creation 
+        > nested while loop 
+        > nested while loop for pattern creation 
+        > keywords
+            > break 
+            > continue 
+            > pass 
+            > else
